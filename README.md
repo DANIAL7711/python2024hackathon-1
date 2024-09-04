@@ -89,7 +89,7 @@ Members:
 3. Belinda Jeffery
 4. Zahra Zulaikha
 
-URL: https://github.com/Darwisy09/python2024hackathon
+URL: https://github.com/DANIAL7711/Dino
 
 ## Royalmonkey
 
